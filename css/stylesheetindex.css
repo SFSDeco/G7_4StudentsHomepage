@@ -18,8 +18,8 @@
 }
 
 .imgwrapper{
-    max-width:N%;
-    max-height:N%;
+    max-width:20%;
+    max-height:20%;
     float:left;
     overflow:hidden;
 }
