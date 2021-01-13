@@ -18,8 +18,8 @@
 }
 
 .imgwrapper{
-    max-width:100%;
-    height:auto;
+    max-width:60%;
+    max-height:auto;
     float:left;
 }
 
