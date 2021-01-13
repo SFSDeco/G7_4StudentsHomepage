@@ -18,7 +18,7 @@
 }
 
 .imgwrapper{
-    width:30%;
+    max-width:30%;
     float:left
 }
 
@@ -28,7 +28,7 @@
 
 .textwrapper{
     background-color: black;
-    height:100%;width:70%;
+    height:100%;max-width:70%;
     float: right;
     vertical-align: middle;
 }
